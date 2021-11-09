@@ -30,6 +30,7 @@ sudo git clone https://github.com/scipag/vulscan.git
 sudo git clone https://github.com/1N3/Sn1per.git
 sudo git clone https://github.com/int0x33/nc.exe.git
 sudo git clone https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git
+sudo git clone https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
 
 # searchsploit
 sudo git clone https://github.com/offensive-security/exploit-database.git
